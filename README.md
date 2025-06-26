@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋,<br> I'm Shahmir Zaman</h1>
 <h3 align="center">A passionate Full-Stack developer/AWS Certified Cloud Practitioner/IT Network assosiate</h3>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahmir-zaman" alt="shahmir-zaman" /></a> </p>
-
 - 🔭 I’m currently working on : [Roamaura](https:/github.com/Shahmir-Zaman/Roamaura)
 
 - 🌱 I’m currently learning : **React, Django, Rust, Next.js 14, Docker,ML, Agentic Programming and advanced prompt engineering**
@@ -32,4 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahmir-zaman&show_icons=true&locale=en&layout=compact" alt="shahmir-zaman" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahmir-zaman&show_icons=true&locale=en" alt="shahmir-zaman" /></p>
 </div>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahmir-zaman" alt="shahmir-zaman" /></a> </p>
