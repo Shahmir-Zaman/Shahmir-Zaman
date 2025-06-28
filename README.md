@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,<br> I'm Shahmir Zaman</h1>
 <h3 align="center">A passionate Full-Stack developer/AWS Certified Cloud Practitioner/IT Network assosiate</h3>
 <br>
-- 🔭 I’m currently working on : [Roamaura](https:/github.com/Shahmir-Zaman/Roamaura)
+- 🔭 I’m currently working on : <b>Roamaura</b> (https:/github.com/Shahmir-Zaman/Roamaura)
 
 - 🌱 I’m currently learning : **React, Django, Rust, Next.js 14, Docker,ML, Agentic Programming and advanced prompt engineering**
 
